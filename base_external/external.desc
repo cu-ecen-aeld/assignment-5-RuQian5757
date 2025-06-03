@@ -1,1 +1,2 @@
-name: project_base
+name: PROJECT_BASE
+desc: The base directory of the external packages
