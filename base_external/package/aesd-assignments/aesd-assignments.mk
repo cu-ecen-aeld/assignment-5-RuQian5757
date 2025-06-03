@@ -4,9 +4,9 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = main
+AESD_ASSIGNMENTS_VERSION = 'ea21b715f825f1ade4b16b23380167d385c7e7e2'
 
-AESD_ASSIGNMENTS_SITE = git@github.com:RuQian5757/assignments-3-and-later-RuQian5757.git
+AESD_ASSIGNMENTS_SITE = 'git@github.com:RuQian5757/assignments-3-and-later-RuQian5757.git'
 
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
